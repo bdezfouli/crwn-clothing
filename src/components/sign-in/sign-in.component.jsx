@@ -32,6 +32,7 @@ class SignIn extends React.Component {
     render() {
         return (
             <div className='sign-in'>
+                {/* <div>{window.env.API_URL}</div> */}
                 <h2>I already have an account</h2>
                 <span>Sign in with your Email and password</span>
 
